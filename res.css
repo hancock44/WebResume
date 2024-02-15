@@ -15,6 +15,9 @@ h1 {
 }
 
 #contact {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 75%;
     padding: 15px;
     color: white;
