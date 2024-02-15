@@ -15,5 +15,7 @@ h1 {
 }
 
 .contact {
-    width: 200%;
+    width: 100%;
+    padding: 15px;
+    text-align: left;
 }
