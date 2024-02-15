@@ -15,8 +15,9 @@ h1 {
 
 #contact {
     width: 100%;
-    padding: 100px;
+    border-bottom: 1px solid #ddd;
     text-align: center;
+    tr:hover {background-color: coral;}
 }
 
 .center {
