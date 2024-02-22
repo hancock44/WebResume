@@ -17,7 +17,7 @@ h1 {
     width: 100%;
     border-bottom: 1px solid #ddd;
     text-align: left;
-    tr:hover {background-color: purple;}
+    tr:hover {background-color: grey;}
 }
 
 .center {
