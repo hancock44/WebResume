@@ -26,6 +26,7 @@ h1 {
     margin-right: auto;
 }
 
-#navbar1 {
-    
+#target {
+    max-width: 90%;
+    height: auto;
 }
