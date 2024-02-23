@@ -30,3 +30,8 @@ h1 {
     max-width: 90%;
     height: auto;
 }
+
+#owl {
+    max-width: 50%;
+    height: auto;
+}
